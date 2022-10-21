@@ -1,4 +1,4 @@
-##Brazil Municipalities (Spatial Data Analysis)
+Brazil Municipalities (Spatial Data Analysis)
 
 http://rpubs.com/Beelee/Brazil-Municipalities-Spatial-Data-Analysis
 
